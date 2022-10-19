@@ -1,6 +1,6 @@
 # WindowsSMBSharesExports
 
-<h1>Porque?</h1)
+<h1>Porque?</h1>
 
 Precisei fazer uma migração de Storage em um cliente.
 
